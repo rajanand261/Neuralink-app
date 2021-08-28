@@ -1,5 +1,5 @@
 # Neuralink-app
-This android app used to automate home with haedband sensor of neurosky company and arduino microcontroller laced home.
+This android app used to automate home with headband sensor of neurosky company and arduino microcontroller laced home.
 To know about this app and its working please read ppt attacted with name Neuralink.
 
 Steps to recreate project:
