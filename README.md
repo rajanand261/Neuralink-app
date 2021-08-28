@@ -11,3 +11,6 @@ Steps to recreate project:
 
 ///////////////////////////////////////////////////////////////////
 Note: Mac address of buletooth of headset sensor and bluetooth which connected to arduino is hardcoded please replace that.
+Read all document and ppt files first before putting hand on project.
+Project Publication: https://ieeexplore.ieee.org/document/9336967
+
